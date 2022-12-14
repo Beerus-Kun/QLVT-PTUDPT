@@ -70,5 +70,5 @@ CỘNG	#,##0.0		#,##0.0
 HẾT
 
 
-### **_Lưu ý_**: Copy từ đầu tới phần tạo procedure trong file (tạo SQL)[QLVT.Database.sql] và chạy trên master. 
+### **_Lưu ý_**: Copy từ đầu tới phần tạo procedure trong file [tạo SQL](QLVT.Database.sql) và chạy trên master. 
 ### **_Lưu ý_**: Tạo link 0 tạm trên site chủ sau đó mới chạy các hàm tạo sp
