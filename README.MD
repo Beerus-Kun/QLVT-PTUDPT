@@ -2,7 +2,7 @@
 
 ĐỀ TÀI MÔN PHÁT TRIỂN ỨNG DỤNG PHÂN TÁN
 ### 
-Đề 3 . QUẢN LÝ VẬT TƯ
+Đề 3 . QUẢN LÝ VẬT TƯ (QLVT)
 Mục tiêu: Viết chương trình quản lý việc nhập/xuất vật tư của công ty theo từng chi nhánh.
 -	Công ty  có 2 chi nhánh (CN1 và CN2) . Trong mỗi chi nhánh có nhiều nhân viên, nhưng mỗi nhân viên chỉ thuộc 1 chi nhánh. Mỗi nhân viên có mã để phân biệt các nhân viên với nhau, họ, tên, phái, ngày sinh, dịa chỉ, số điện thoại liên lạc. Các nhân viên về sau này có khả năng sẽ được điều chuyển qua chi nhánh khác.
 -	Mỗi hàng hóa có mã mặt hàng để phân biệt các mặt hàng với nhau, tên mặt hàng, đơn vị tính. Mỗi hàng hóa thuộc 1 loại hàng, 1 loại hàng có thể có nhiều hàng hóa.
